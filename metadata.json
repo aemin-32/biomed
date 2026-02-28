@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of BioMed OS الشغال",
+  "description": "نظام تشغيل الهندسة الطبية - Medical Engineering Operating System",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
